@@ -7,4 +7,5 @@ int main()
     (a%2!=0&&a>100&&a<200)?
     printf("\n True"):
     printf("\n False");
+    return 0;
 }
